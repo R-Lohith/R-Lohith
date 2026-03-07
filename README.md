@@ -48,12 +48,6 @@ Python | AI | Web Scraping | Mapping APIs
 
 ---
 
-## 🌟 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lohith&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with me
 
 - 💼 LinkedIn: http://linkedin.com/in/lohithravi/
