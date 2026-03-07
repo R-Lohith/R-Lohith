@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Lohith
 
-<!--
-**R-Lohith/R-Lohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student Developer  
+🤖 Interested in AI, Machine Learning & Software Development  
+💻 Learning Python, Web Development, and Intelligent Systems  
+🌱 Building projects and exploring how technology works  
+🔥 Passionate about creating useful tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Python
+- C
+- Java
+- JavaScript
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+
+### 🧠 AI / ML
+- Python
+- OpenCV
+- DeepStream
+- RAG Systems
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+
+---
+
+## 🚀 Projects
+
+### 🔹 SmartNav Intelligence & Safety System
+AI-powered system that analyzes crime data and provides safety alerts and smart routing.
+
+Tech Stack:
+Python | AI | Web Scraping | Mapping APIs
+
+🔗 Repo: https://github.com/R-Lohith/SIH_2025-TEAM_PROJECT
+
+---
+
+## 🌟 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lohith&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: http://linkedin.com/in/lohithravi/
+- 📧 Email: lohith.ec23@bitsathy.ac.in
