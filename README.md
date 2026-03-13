@@ -14,7 +14,6 @@
 - Python
 - C
 - Java
-- JavaScript
 
 ### 🌐 Web Development
 - HTML
